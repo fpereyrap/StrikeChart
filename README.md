@@ -24,10 +24,12 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="AppIcon/icon_180x180.png" alt="App Preview" width="150">
-  <img src="AppIcon/icon_152x152.png" alt="Widget Preview" width="150">
-  <img src="AppIcon/icon_120x120.png" alt="Settings Preview" width="150">
+  <img src="Screenshots/_1.png" alt="Welcome Screen" width="250">
+  <img src="Screenshots/_2.png" alt="Login Screen" width="250">
+  <img src="Screenshots/_3.png" alt="Main Dashboard with Contribution Graph" width="250">
 </div>
+
+*Strike Chart's beautiful interface: Welcome screen, Habitica login, and the main dashboard featuring your GitHub-style habit contribution graph*
 
 ## 🚀 Quick Start
 
